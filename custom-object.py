@@ -28,4 +28,4 @@ tip = purchase.calculateTip(tipPercent)
 # Display some useful information.
 print('Tax: ', tax)
 print('Tip: ', tip)
-print('Total: ', purchase.calculateTotal(taxPercent. tipPercent))
+print('Total: ', purchase.calculateTotal(taxPercent, tipPercent))
